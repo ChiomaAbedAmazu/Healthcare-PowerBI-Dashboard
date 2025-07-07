@@ -60,7 +60,7 @@ This project presents an interactive **Healthcare Dashboard** developed using **
 ```
 Healthcare-powerbi-dashboard
 ├── Healthcare Analysis Dashboard.pbix        # Main Power BI report
-├── Data                                      # Data Folder
+├── DataII                                      # Data Folder
     ├── HCD-Appointment.xlsx             # Patient Appointment 
     ├── HCD-LabResults.xlsx              # Patient Lab Results
     ├── HCD-Patients.xlsx                # Patient Information
